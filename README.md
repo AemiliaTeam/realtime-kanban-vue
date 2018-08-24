@@ -1,4 +1,4 @@
-# 1realtime-kanban-vue
+# 2realtime-kanban-vue
 
 > A realtime kanban board in Vue.js and Hamoni Sync
 
